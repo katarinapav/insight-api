@@ -110,5 +110,10 @@
         "searchStrings": [
             "t1ShwyK2o1Pj2qTpz33tqG8aEMszcxxmax8"
         ]
-    }
+    },
+    {
+          "poolName": "EquihashPro",
+        "url": "https://equihash.pro",
+        "searchStrings": [
+            "RknvHE1SPhZjicabcA1FBQrBrXF2WcM7EV"
 ]
